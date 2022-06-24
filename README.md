@@ -1,1 +1,1 @@
-# ClaseNumerico
+# Clase Numerico
